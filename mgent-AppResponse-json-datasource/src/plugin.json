@@ -1,0 +1,31 @@
+{
+  "name": "AppResponse",
+  "id": "mgent-appresponse-json-datasource",
+  "type": "datasource",
+
+  "partials": {
+    "config": "public/app/plugins/datasource/simplejson/partials/config.html"
+  },
+
+  "metrics": true,
+  "annotations": true,
+
+  "info": {
+    "description": "SteelCentral AppResponse json datasource (base on simple-json-datasource from Grafana Labs)",
+    "author": {
+      "name": "CRINON Nicolas, MGEN Technologies",
+      "url": "https://github.com/Crinon/Grafana-Datasource-Plugin-For-Riverbed-AppResponse"
+    },
+    "logos": {
+      "small": "img/simpleJson_logo.svg",
+      "large": "img/simpleJson_logo.svg"
+    },
+    "version": "1.0.0",
+    "updated": "2019-07-01"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}
