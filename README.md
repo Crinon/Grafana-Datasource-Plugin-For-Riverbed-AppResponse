@@ -1,5 +1,5 @@
 # Grafana-Datasource-Plugin-For-Riverbed-AppResponse
-This datasource plugin allow Grafana to submit requests to Riverbed SteelCentral AppResponse.
+This datasource plugin allows Grafana to submit requests to Riverbed SteelCentral AppResponse.
 Use Python Flask environnement server to run the Python script.
 
 As of 21 august 2019, this plugin does not suffer from any known bug.
