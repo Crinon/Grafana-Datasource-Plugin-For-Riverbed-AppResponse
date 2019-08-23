@@ -45,3 +45,4 @@ npm run build
 - Release
 
 
+CRINON Nicolas ncrinon@mgen.fr
